@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#
+
+#
+
+# Portfolio Websaite with React and Sanity.io
+
+This is the project from the [YouTube](https://www.youtube.com/watch?v=NO7_jgzVgbc&t=1580s). It includes the beginner's guide to building out your own portfolio using React, Sanity, and Tailwind. From scratch, learn the basics of React, how Sanity can manage the content for your portfolio, and how Tailwind can help create beautiful designs.
+
+## Running Locally
+
+**Back-end:**
+
+1. `npm install`
+1. `npm run develop`
+1. App will run on port `3333`
+1. Go to [http://localhost:3333](http://localhost:3333) and create a new user.
+
+1. Don't forget to allow get request permissions for events.
