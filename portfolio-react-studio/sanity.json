@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "Portfolio React Sanity"
+    "name": "portfolio-react-studio"
   },
   "api": {
-    "projectId": "w2j2fxn0",
+    "projectId": "yvyekzy2",
     "dataset": "production"
   },
   "plugins": [
